@@ -6,7 +6,7 @@ This template provides a streamlined starting point for new projects, featuring 
 [Live Project Here]()
 
 <p align="center"><img src="./assets/readme/features/watches_clocks_responsiveness.jpg"
-        alt="Watches & Clocks webpage on multiple devices"></p>
+        alt="LIve Project Image"></p>
 
 
 
